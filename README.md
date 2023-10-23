@@ -2,6 +2,7 @@
 Code-base for the paper "General Identifiability and Achievability for Causal Representation Learning"
 
 Contains the codes for reproducing results for the GSCALE-I algorithm 
+
 Requires 'torch >= 2.0'. 
 
 Execute "main.py" file for reproducing the simulations for the transform $X=tanh(T.Z)$ and execute "analyze.py" to generate the evaluation metrics presented in the paper.

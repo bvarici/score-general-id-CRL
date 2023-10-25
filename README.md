@@ -1,5 +1,5 @@
 # score-general-id-CRL
-Code-base for the paper [General Identifiability and Achievability for Causal Representation Learning ](https://www.google.com](https://arxiv.org/abs/2310.15450)
+Code-base for the paper [General Identifiability and Achievability for Causal Representation Learning](https://arxiv.org/abs/2310.15450)
 
 Contains the codes for reproducing results for the GSCALE-I algorithm 
 
